@@ -1,0 +1,13 @@
+C:\Users\Dev\Desktop\calculo salario\obj\Debug\netcoreapp3.1\calculo salario.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\calculo salario\obj\Debug\netcoreapp3.1\calculo salario.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\calculo salario\obj\Debug\netcoreapp3.1\calculo salario.AssemblyInfo.cs
+C:\Users\Dev\Desktop\calculo salario\obj\Debug\netcoreapp3.1\calculo salario.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\calculo salario\bin\Debug\netcoreapp3.1\calculo salario.exe
+C:\Users\Dev\Desktop\calculo salario\bin\Debug\netcoreapp3.1\calculo salario.deps.json
+C:\Users\Dev\Desktop\calculo salario\bin\Debug\netcoreapp3.1\calculo salario.runtimeconfig.json
+C:\Users\Dev\Desktop\calculo salario\bin\Debug\netcoreapp3.1\calculo salario.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\calculo salario\bin\Debug\netcoreapp3.1\calculo salario.dll
+C:\Users\Dev\Desktop\calculo salario\bin\Debug\netcoreapp3.1\calculo salario.pdb
+C:\Users\Dev\Desktop\calculo salario\obj\Debug\netcoreapp3.1\calculo salario.dll
+C:\Users\Dev\Desktop\calculo salario\obj\Debug\netcoreapp3.1\calculo salario.pdb
+C:\Users\Dev\Desktop\calculo salario\obj\Debug\netcoreapp3.1\calculo salario.genruntimeconfig.cache
